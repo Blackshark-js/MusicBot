@@ -13,14 +13,14 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token = BOT_TOKEN_HERE
+token =NjIzMTk1MjkxNDY5ODczMTky.XYO_zw.WXA6SpuRYtJfFSLyDKa4Pd-je5Q
 
 
 // This sets the owner of the bot
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 0
+owner =540077145376948224
 
 
 // This sets the prefix for the bot
@@ -28,7 +28,7 @@ owner = 0
 // If you use !!, the play command will be !!play
 // If you do not set this, the prefix will be an @mention of the bot (@Botname play)
 
-prefix = "@mention"
+prefix ="@mention"
 
 
 // If you set this, it modifies the default game of the bot
@@ -38,7 +38,7 @@ prefix = "@mention"
 // where X is the title. If you don't include an action, it will use the
 // default of "Playing"
 
-game = "DEFAULT"
+game = "TRK SERVER "
 
 
 // If you set this, it will modify the default status of bot
@@ -57,7 +57,7 @@ songinstatus = false
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 
-altprefix = "NONE"
+altprefix = "1"
 
 
 // If you set these, it will change the various emojis
@@ -81,7 +81,7 @@ help = "help"
 // This is because refreshing the boxes causes the image to be reloaded
 // every time it refreshes.
 
-npimages = false
+npimages = true
 
 
 // If you set this, the bot will not leave a voice channel after it finishes a queue.
